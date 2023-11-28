@@ -1,16 +1,16 @@
-Atompoint Node.js App
+# Atompoint Node.js App
 
 This is the Node.js backend application for the Atompoint project.
 
-Prerequisites
+### Prerequisites
 
 Node.js installed (version 10.19.0)
 
 npm (Node Package Manager) installed
 
-Setup
+## Setup
 
-Clone the repository:
+### Clone the repository:
 
 git clone https://github.com/larebamir/atompoint-node-app.git
 
@@ -20,7 +20,7 @@ Install dependencies:
 
 npm install
 
-Start the server:
+### Start the server:
 
 npm start
 
